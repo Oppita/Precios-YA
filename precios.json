@@ -1,8 +1,12 @@
 {
-    "aceite de oliva gran meson extra virgen x500ml": {
-        "zapatoca": 27200
-    },
-    "aceite de oliva sublime marca exclusiva 100% puro 500 ml": {
-        "exito": 37000
-    }
+    "entries": [
+        {
+            "producto": "aceite de oliva sublime marca exclusiva 100% puro 500 ml",
+            "precios": {
+                "exito": 37000,
+                "jumbo": 37000,
+                "carulla": 37000
+            }
+        }
+    ]
 }
